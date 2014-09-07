@@ -1,3 +1,5 @@
+This is the first Rails App I have ever made and I'm using cloud 9 to do it! Horray!
+
 
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
